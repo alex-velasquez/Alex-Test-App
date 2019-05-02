@@ -19,6 +19,8 @@ namespace testapp
 
        //this is a comment 
 
+            //comment for release branch
+
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
