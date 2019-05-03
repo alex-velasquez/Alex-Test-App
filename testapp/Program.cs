@@ -20,6 +20,7 @@ namespace testapp
        //this is a comment 
 
             //comment for release branch
+            //this is another test to see a commit go through
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
